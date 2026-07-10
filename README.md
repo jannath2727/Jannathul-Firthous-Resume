@@ -38,7 +38,7 @@ This repository contains my latest ATS-friendly resume, including my education, 
 
 ## 📫 Contact
 
-- **Email:** jannathjf2005@example.com
+- **Email:** jannathjf2005@gmail.com
 - **GitHub:** https://github.com/jannath2727
 - **PH NO:** 6369975654
 ---
